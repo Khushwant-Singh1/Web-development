@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+
+div {
+    height: 60px;
+    background-color: black;
+}
+
+button {
+    background-color: #f0880f;
+}
+
+#logo {
+    color: #f0880f;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+}
